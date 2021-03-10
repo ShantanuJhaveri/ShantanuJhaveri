@@ -1,4 +1,4 @@
-# Welcome to my Github - I'm a ML/AI developer and scientist
+# Welcome to my Github - I'm a ML/AI developer and scientist named Shantanu
 There are all types of projects on here, mainly things related to machine learning, artificial intellegence, or projects that I was working on that I thought were cool... I am forever intellectually curious and constantly pick up new things. I primarly spend my time working on ML/AI Projects, with some software development on teh side. <br>
 ### A key to my repository
 - `LM` indicates a learning module -  a course or class I took that taught me some skills associated with a language or development tool
