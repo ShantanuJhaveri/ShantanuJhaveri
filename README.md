@@ -1,2 +1,3 @@
-# ShantanuJhaveri
-hello
+# Welcome to my Github
+There are all types of projects on here, mainly things related to machine learning, artificial intellegence, or projects that I was working on that I thought were cool...
+### Check out my website:
