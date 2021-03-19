@@ -11,7 +11,6 @@ I primarly consider myself a junior ML engineer, but as a student, I take oppurt
 - the [Certifications Repo](https://github.com/ShantanuJhaveri/Generative-Designs) has a list of certifications that I completed during my time so far
 - the [LM-intro_ML Repo](https://github.com/ShantanuJhaveri/LM-Intro_ML) is where I try to link everything that I have been learning at USC as it relates to ML/AI development. Becuase of some course requirements though, I was not able to put all of my course work or projects
 - the [Generative Design Repo](https://github.com/ShantanuJhaveri/certifications) is where I keep generative designs and math-art projects as they relate to code. 
-- I program in C++ and 
 
 ### Check out my website:
 http://shantanujhaveri.me/
