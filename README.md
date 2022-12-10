@@ -8,4 +8,4 @@ Graduating from the University of Southern California with a Bachelors of Scienc
 
 [Certifications/Courses](https://github.com/ShantanuJhaveri/certifications)
 
-###### Check out my website:http://shantanujhaveri.me/
+###### Check out my website: http://shantanujhaveri.me/
